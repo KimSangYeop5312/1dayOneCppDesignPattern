@@ -1,0 +1,2 @@
+D:\CppDesignPattern\CommandPattern\Debug\CommandPattern.exe
+D:\CppDesignPattern\CommandPattern\Debug\CommandPattern.pdb
