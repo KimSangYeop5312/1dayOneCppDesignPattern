@@ -1,0 +1,2 @@
+D:\CppDesignPattern\ObserverPattern\Debug\ObserverPattern.exe
+D:\CppDesignPattern\ObserverPattern\Debug\ObserverPattern.pdb
