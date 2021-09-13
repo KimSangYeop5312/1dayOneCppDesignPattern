@@ -1,0 +1,2 @@
+D:\CppDesignPattern\ProtoTypePattern\Debug\ProtoTypePattern.exe
+D:\CppDesignPattern\ProtoTypePattern\Debug\ProtoTypePattern.pdb
