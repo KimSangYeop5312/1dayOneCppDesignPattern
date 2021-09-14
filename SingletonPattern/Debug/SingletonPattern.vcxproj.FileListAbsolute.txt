@@ -1,0 +1,2 @@
+D:\CppDesignPattern\SingletonPattern\Debug\SingletonPattern.exe
+D:\CppDesignPattern\SingletonPattern\Debug\SingletonPattern.pdb
